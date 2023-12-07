@@ -1,2 +1,2 @@
-# CPP_Projects
-C++ Projects
+# C++ Terminal-Based Projects
+This repository contains a collection of terminal-based projects implemented in C++. These projects are designed to run in a command-line interface (CLI) environment, providing a hands-on learning experience and a practical application of C++ programming concepts. Whether you're a beginner looking to improve your C++ skills or an experienced developer exploring new projects, these terminal-based projects offer a diverse range of challenges.
